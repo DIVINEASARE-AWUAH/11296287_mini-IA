@@ -1,0 +1,9 @@
+{
+    "patientId": "12345",
+    "vitals": {
+        "bloodPressure": "120/80",
+        "temperature": "98.6",
+        "pulse": "75",
+        "spO2": "98"
+    }
+}
